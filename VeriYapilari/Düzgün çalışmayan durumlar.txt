@@ -1,0 +1,7 @@
+Düzgün çalışmayan durumlar :
+1) Tekleri başa alma :
+Son değeri kontrol ettiremiyorum . Döngüyü son değeri kontrol etmesi için 1 adım ilerlettiğimde hata alıyorum ve şu anki halinde son basamak kale alınmadan tekleri başa almakta.
+2) Basamakları tersleme :
+Aslında son düğüme gidip ondan sonra basamak sayımı bildiğimden basamak sayımı 1 azalta azalta ilk düğüme kadar özyineleme ile geziyordum lakin 2nin katlarında acilis daki işlemin aynısını yaptım ilk başta ve burada yazdırırken adresler bu şekilde yazılmıyordu bunu fark ettiğimde düzeltmek için vaktim yoktu ödevi göndermem lazımdı.
+3) En büyük değeri çıkarma :
+En büyük değeri çıkarıyor lakin bu işlemden sonra 1 ya da 2. işlem tekrar yapılırsa hata veriyor .
